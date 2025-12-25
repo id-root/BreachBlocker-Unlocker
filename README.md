@@ -525,4 +525,4 @@ THM{neggative_balance}
 Congratulation you found all 3 flags....
 
 # Overview
-![Infographic.png]()
+![](Infographic.png)
