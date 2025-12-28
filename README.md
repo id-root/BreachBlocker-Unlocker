@@ -29,7 +29,11 @@ feroxbuster -u https://10.48.180.216:8443 \
 
 Output
 ```lua
-200 GET 597l 1665w 24510c https://10.48.180.216:8443/main.js 200 GET 1886l 11675w 1040896c https://10.48.180.216:8443/selfie.png 200 GET 2808l 15499w 1355842c https://10.48.180.216:8443/wallpaper.png 200 GET 1939l 12721w 1126787c https://10.48.180.216:8443/breaky.png 200 GET 1801l 8381w 117357c https://10.48.180.216:8443/ 200 GET 1801l 8381w 117357c https://10.48.180.216:8443/index.html 200 GET 1l 17w 8208c https://10.48.180.216:8443/hopflix-874297.db 200 GET 214l 562w 6514c https://10.48.180.216:8443/main.py 200 GET 3l 3w 44c https://10.48.180.216:8443/requirements.txt
+200 GET 597l 1665w 24510c https://10.48.180.216:8443/main.js 200 GET 1886l 11675w 1040896c https://10.48.180.216:8443/selfie.png 200 GET
+ 2808l 15499w 1355842c https://10.48.180.216:8443/wallpaper.png 200 GET 1939l 12721w 1126787c https://10.48.180.216:8443/breaky.png 200 GET
+1801l 8381w 117357c https://10.48.180.216:8443/ 200 GET 1801l 8381w 117357c https://10.48.180.216:8443/index.html 200 GET 1l 17w 8208c
+https://10.48.180.216:8443/hopflix-874297.db 200 GET 214l 562w 6514c https://10.48.180.216:8443/main.py 200 GET 3l 3w 44c
+https://10.48.180.216:8443/requirements.txt
 ```
 
 We got 2 important files one is `main.py` that contain source code of the web-app and one the database file `hopflix-874297.db` contain credentials of user.
