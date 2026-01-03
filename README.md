@@ -1,5 +1,7 @@
 # BreachBlocker Unlocker
 
+**Note:**  **_If you haven't extracted the key yet... click here_** ![Key](Key-Sidequest4.md)
+
 ##### Check out Advent Of Cyber 2025 Side quest 4 by TryHackMe: https://tryhackme.com/room/sq4-aoc2025-32LoZ4zePK
 
 
