@@ -2,7 +2,7 @@
 
 **Note:**  **_If you haven't extracted the key yet... click here_** ![Key](Key-for-BreachBlocker-Unlocker.md)
 
-**URL of the room:** ![BreachBlocker unlocker](https://tryhackme.com/room/sq4-aoc2025-32LoZ4zePK)
+**URL of the room:** [BreachBlocker unlocker](https://tryhackme.com/room/sq4-aoc2025-32LoZ4zePK)
 
 
 ## **Phase 1: Reconnaissance**
